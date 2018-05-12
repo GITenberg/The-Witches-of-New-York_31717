@@ -1,0 +1,29 @@
+_repo: The-Witches-of-New-York_31717
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Doesticks, Q. K. Philander
+    aliases:
+    - Thompson, Mortimer Neal
+    - Thomson, Mortimer N. (Mortimer Neal)
+    birthdate: 1831
+    deathdate: 1875
+    gutenberg_agent_id: '32607'
+    url: http://www.gutenberg.org/2009/agents/32607
+description: ''
+gutenberg_issued: '2010-03-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31717'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fortune-telling -- New York (State) -- Humor'
+- !lcc 'BF'
+title: The Witches of New York
+url: http://www.gutenberg.org/ebooks/31717
